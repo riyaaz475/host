@@ -86,7 +86,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Tg_maggi*\n\n'
             '⚠️ *RIYAAZ RITIK KA DUSRA BAAP🤬* ⚠️'
         )
     },
@@ -96,7 +96,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Tg_maggi*\n\n'
             '⚠️ *RIYAAZ RITIK KA DUSRA BAAP🤬* ⚠️'
         )
     },
@@ -106,7 +106,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Tg_maggi*\n\n'
             '⚠️ *RITIK KI MAMMY CHUT ME HATHI KA LUND🤬* ⚠️'
         )
     },
@@ -116,7 +116,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Tg_maggi*\n\n'
             '⚠️ *RAJA RITIK KA PEHLA BAAP🤬* ⚠️'
         )
     },
@@ -126,7 +126,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Tg_maggi*\n\n'
             '⚠️ *RITIK KI MUMMY KO MOTE LUND SE CHODNE WALA S2 FLASH* ⚠️'
         )
     },
@@ -136,7 +136,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Tg_maggi*\n\n'
             '⚠️ *DEMON NE RITIK KI MUMMY KE BLOUSE SILNE KE BAHANE USKE BOOBS DABA DIYE* ⚠️'
         )
     },
@@ -156,7 +156,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Tg_maggi*\n\n'
             '⚠️ *MERE GROUP KA HAR BANDA RITIK KI MUMMY KA YAAR HA* ⚠️'
         )
     },
@@ -166,7 +166,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Tg_maggi*\n\n'
             '⚠️ *RITIK KI MUMMY KI GND KE CHED KA SIZE KITNA HA* ⚠️'
         )
     },
@@ -176,7 +176,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Tg_maggi*\n\n'
             '⚠️ *⚠️LATEST NEWS⚠️ RITIK KI MUMMY KO 9000 THREDS PE CHODA * ⚠️'
         )
     },
@@ -186,7 +186,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Tg_maggi*\n\n'
             '⚠️ *⚠️LATEST NEWS⚠️ RITIK KI MUMMY GHODE GAND MARWATE HUE PAKDI GYI* ⚠️'
        )
     },
@@ -196,7 +196,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Tg_maggi*\n\n'
             '⚠️ *RITIK KA BAAP GAY HA USKA ASLI BAAP S2 FLASH HA* ⚠️'
         )
     },
@@ -206,7 +206,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Tg_maggi*\n\n'
             '⚠️ *S2 FLASH NE RITIK KI MUMMY KO 1024 BYTE PE CHOD OR ABB CHUT KA SIZE 50CM HA* ⚠️'
         )
     },
