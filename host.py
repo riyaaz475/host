@@ -20,10 +20,10 @@ logging.basicConfig(
 )
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '7064980384:AAGfNFTaf81DF3P4NLhHm0TRBSEV1XfBATw'
+TELEGRAM_BOT_TOKEN = '8104879165:AAHjC4zt5jWZY4M2kc_sXNoHf2OXEGlLzEw'
 OWNER_USERNAME = "Riyahacksyt"
 OWNER_CONTACT = "Contact @Riyahacksyt to buy keys"
-ALLOWED_GROUP_IDS = [-1002295161013]
+ALLOWED_GROUP_IDS = [-1002634195228]
 MAX_THREADS = 1000
 max_duration = 120
 bot_open = False
@@ -1734,7 +1734,7 @@ def main():
     )
 
     # Add all handlers
-    application.add_handler(generate_key_handle r)
+    application.add_handler(generate_key_handler)
     application.add_handler(redeem_key_handler)
     application.add_handler(attack_handler)
     application.add_handler(set_duration_handler)
