@@ -21,13 +21,13 @@ logging.basicConfig(
 
 # Bot Configuration
 TELEGRAM_BOT_TOKEN = '8104879165:AAHjC4zt5jWZY4M2kc_sXNoHf2OXEGlLzEw'
-OWNER_USERNAME = "Riyahacksyt"
-OWNER_CONTACT = "Contact @Riyahacksyt to buy keys"
+OWNER_USERNAME = "Mk_ddos"
+OWNER_CONTACT = "Contact @Mk_ddos to buy keys"
 ALLOWED_GROUP_IDS = [-1002634195228]
 MAX_THREADS = 1000
 max_duration = 120
 bot_open = False
-SPECIAL_MAX_DURATION = 200
+SPECIAL_MAX_DURATION = 240
 SPECIAL_MAX_THREADS = 2000
 
 # VPS Configuration
@@ -54,7 +54,7 @@ START_IMAGES = [
             '🔥 *Welcome to the Ultimate DDoS Bot!*\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`\n\n'
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad* 💀\n\n'
-            '🔑 *Ritik ki ma chodne wala @Riyahacksyt*\n\n'
+            '🔑 *Ritik ki ma chodne wala @Mk_ddos*\n\n'
             '⚠️ *RIYAAZ RITIK KA DUSRA BAAP🤬* ⚠️'
         )
     },
